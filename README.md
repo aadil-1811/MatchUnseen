@@ -1,8 +1,8 @@
 <img align="left" style="margin-top:25px" width="60" height="60" src="frontend/src/assets/images/app-logo.png">
 
-# BlindMatch: Blind Dating Web Application
+# MatchUnseen: Blind Dating Web Application
 
-<p style='text-align: justify;'>BlindMatch Web Application aims to create a safe and inclusive platform where individuals can find meaningful connections based on shared values and interests, rather than just physical appearance or initial impressions. </p>
+<p style='text-align: justify;'>MatchUnseen is a Web Application which aims to create a safe and inclusive platform where individuals can find meaningful connections based on shared values and interests, rather than just physical appearance or initial impressions. </p>
 <p style='text-align: justify;'>The web application will also include safety features, such as profile verification and reporting systems, to ensure the safety of all users.</p>
 
 
